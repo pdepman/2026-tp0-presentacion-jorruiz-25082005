@@ -1,5 +1,6 @@
 # 2026-tp0-presentacion-jorruiz-25082005
-![f1](https://github.com/user-attachments/assets/18ae8463-bfe8-49cd-aa78-1772f190de77)
+<img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/6390fc6c-8acc-4582-96fb-c598391f7d3b" />
+
 
 ### Datos
 Hola me llamo Jorge, soy estudiante de Ingeniría en Sistemas, estoy en segundo año y trabajo en Luccianos.
